@@ -130,3 +130,5 @@ dmypy.json
 data/
 notebook/VGG16_full_model.h5
 notebook/trained_model.h5
+notebook/tflite_model_dir/vgg16_model.tflite
+notebook/tflite_model_dir/vgg16_model_quant.tflite
